@@ -4,9 +4,6 @@
 # In[1]:
 
 
-#Collaborators:HW-4
-'''Kirtiman Rai-kirtimar
-   Seeulee Upadhyaya-seeuleeu'''
 
 #1)a
 
